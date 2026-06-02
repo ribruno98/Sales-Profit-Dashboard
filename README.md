@@ -32,4 +32,9 @@ Criei regras de negócio utilizando fórmulas em **DAX** para extrair os indicad
 #### 3. Análise de Lucro
 <img width="1876" height="1055" alt="image" src="https://github.com/user-attachments/assets/5e0c8696-b501-4ed8-9213-c20554678104" />
 
+---
+**Clique aqui para interagir com o Dashboard Online:**
+https://app.powerbi.com/view?r=eyJrIjoiMzYwOWQzOGQtZjI0ZC00OTJmLWE4NmQtZTIzODE5YTMzYjEyIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
+
+
  
