@@ -20,6 +20,5 @@ Criei regras de negócio utilizando fórmulas em **DAX** para extrair os indicad
   ```dax
   Lucro Total = [Faturamento] - [Custo Total]
 
-  ---
 
-# Dashboard
+--- # Dashboard
