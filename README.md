@@ -1,9 +1,5 @@
 # Sales-Profit-Dashboard
 
----
-
-# Sales & Profit Dashboard (Power BI)
-
 ## Project Overview (Visão Geral do Projeto)
 Este dashboard foi desenvolvido para analisar o desempenho financeiro de uma empresa de comércio. O objetivo é dar total visibilidade sobre o faturamento, os custos operacionais e, principalmente, a margem de lucro real por produto, região e representante.
 
