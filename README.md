@@ -20,5 +20,16 @@ Criei regras de negócio utilizando fórmulas em **DAX** para extrair os indicad
   ```dax
   Lucro Total = [Faturamento] - [Custo Total]
 
+---
+ ### Páginas do Dashboard
 
---- # Dashboard
+#### 1. Visão Geral
+<img width="1875" height="1053" alt="image" src="https://github.com/user-attachments/assets/47488890-a0ed-4736-9fc6-5322076e2515" />
+
+#### 2. Análise de Produtos
+<img width="1874" height="1052" alt="image" src="https://github.com/user-attachments/assets/b928d4c7-6266-4f3d-baf6-dee5c835c028" />
+
+#### 3. Análise de Lucro
+<img width="1876" height="1055" alt="image" src="https://github.com/user-attachments/assets/5e0c8696-b501-4ed8-9213-c20554678104" />
+
+ 
